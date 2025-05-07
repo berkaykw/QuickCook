@@ -26,6 +26,6 @@ evdeki malzemeleri yazarak hangi yemekleri yapabileceğini gösteren basit bir m
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/7cfecf4f-fd1d-4eab-a5ac-c21b6993810a" width="305" />
-  <img src="https://github.com/user-attachments/assets/19ea270f-b9b5-4d70-b86b-e7bd79d39d4b" width="290" />
+  <img src="https://github.com/user-attachments/assets/7d12ad16-439b-4541-9967-24976ce99482" width="305" />
+  <img src="https://github.com/user-attachments/assets/4eca3c15-c441-45b9-866c-0f1fd4b3f59f" width="290" />
 </div>
