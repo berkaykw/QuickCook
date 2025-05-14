@@ -3,7 +3,8 @@
 📱 **QuickCook** ,
 evdeki malzemeleri yazarak hangi yemekleri yapabileceğini gösteren basit bir mobil uygulamadır.
 
-🚀 **Özellikler**
+
+🚀  **Özellikler**
 - Malzemelerini gir, uygun tarifleri bul.
 - Tarifin adımlarını kolayca takip et.
 - Favori tariflerini kaydet.
