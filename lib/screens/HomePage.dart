@@ -105,7 +105,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   Future<void> fetchRecipes(String ingredients) async {
-    String apiKey = '3b8a08da94fd40e68181d23ef0e448ff';
+    String apiKey = 'Your_API-KEY';
 
     final url = Uri.parse(
       'https://api.spoonacular.com/recipes/findByIngredients?ingredients=$ingredients&number=20&apiKey=$apiKey',
