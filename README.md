@@ -9,7 +9,7 @@ evdeki malzemeleri yazarak hangi yemekleri yapabileceğini gösteren basit bir m
 - Favori tariflerini kaydet.
 - Aklında fikir yoksa rastgele tarif alabilirsin.
 
-⚙️ **Kullanılan Teknolojiler**
+⚙️  **Kullanılan Teknolojiler**
 - **Flutter**: Uygulamayı yapmak için kullanıldı.
 - **Firebase**: Verileri saklamak ve giriş/kayıt yapmak için kullanıldı.
 - **Tarif API**: Tarif bilgilerini internetten almak için kullanıldı.
